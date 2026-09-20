@@ -1,0 +1,2 @@
+# çok basic başlangıç bir şey opencv ilk öğrenmeye başladığımda eğitimden öğrendiğimi yapmıştım sizin için onu da bırakıyorum
+kişiler klasöründe eğitmek istediğiniz kişilerin resimlerini koyabilirsiniz kişiler klasöründe de readme mevcut zaten cok basic seviye bir proje bunu da çözemeyen sıfırdan bir eğitim videosu izlemesini öneririm.
